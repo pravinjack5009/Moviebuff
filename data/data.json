@@ -1,0 +1,36 @@
+{
+
+    "fav" : [
+        {
+            "title":"Sita Ramam ",
+            "genre":"Love",
+            "language":"Malayalam ",
+            "rating":"5"
+            
+        },
+        {
+            "title":"Vikram ",
+            "genre":" Action",
+            "language":" Tamil",
+            "rating":" 4.5"
+        },
+        {
+            "title":" Ponniyin Selvan ",
+            "genre":"Drama ",
+            "language":"Tamil,Malayalam,Kanada ",
+            "rating":" 4.0"
+        },
+        {
+            "title":"  Jai Bhim ",
+            "genre":" Revolution",
+            "language":"Tamil ",
+            "rating":"5 "
+        },
+        {
+            "title":"Soorarai Pottru",
+            "genre":"DRAMA",
+            "language":" Tamil",
+            "rating":"3 "
+        }
+    ]
+}

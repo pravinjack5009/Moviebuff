@@ -1,0 +1,101 @@
+.navbar{
+  background-color: rgb(16, 23, 23);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 15px 0px;
+}
+.links a{
+  color: rgb(234, 234, 234);
+  text-decoration: none;
+  margin:0px 15px;
+  font-size: 20px;
+}
+.links a:hover{
+  color:rgb(151, 89, 13);
+}
+.home{
+  background-color: rgb(16, 23, 23);
+  text-align: center;
+  padding-bottom: 30px;
+}
+/* .poster{
+  border-radius: 10px;
+  background-color: aqua;
+
+}
+.movies_list{
+  background-color: aqua;
+} */
+.favs{
+  background-color: rgb(16, 23, 23);
+  text-align:center;
+  color:white;
+  padding: 45px 0px
+
+}
+.favs.h1{
+  font-size: 50px;
+  margin-top: 0px;
+}
+.list{
+  margin: 15px 240px;
+  padding:20px 0px;
+}
+.list h1{
+  font-size: 30px;
+
+}
+.list:hover{
+  background-color: rgba(158, 142, 142, 0.4);
+
+}
+.footer{
+  text-align: center;
+  background-color: rgb(16, 23, 23);
+}
+.footer_desc{
+  color: white;
+}
+.links{
+  color: white;
+}
+.addFavs input{
+  display: block;
+  margin: 15px 0px;
+}
+.addFavs{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ 
+}
+.addFavs h1{
+  align-items: center;
+  background-color: blue;
+}
+.addFavs button{
+  background-color: blueviolet;
+}
+.addkids{
+  background-color: black;
+  justify-content: center;
+  display: flex;
+}
+.addkids h1{
+  background-color: black;
+  align-items: center;
+  color: white;
+  display: flex;
+  margin: 170px;
+  margin-inline: 40pxpx;
+  
+  
+}
+.addkids p{
+  color: white;
+  align-items:right;
+  margin: 170px;
+  font-size:large;
+  
+}
